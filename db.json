@@ -1,6 +1,11 @@
 {
-  "id":1,
-  "name": "bhuvana",
-  "squad": 3043,
-  "team": "Blue House"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
