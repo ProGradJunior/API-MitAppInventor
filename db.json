@@ -1,1 +1,6 @@
-
+{
+  id:1,
+  name: "bhuvana",
+  squad: 3043,
+  team: "Blue House"
+}
